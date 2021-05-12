@@ -1,1 +1,2 @@
 # atcoder_problems
+Pythonでatcoderの問題を解いていくリポジトリです。
